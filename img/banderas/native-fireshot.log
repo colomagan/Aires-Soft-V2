@@ -1,0 +1,52 @@
+10-08-23 08:32:23.221  Started
+10-08-23 08:32:23.241  With command line: C:\xampp\htdocs\prueba\img\banderas\fireshot-chrome-plugin.exe 
+10-08-23 08:32:23.254  Target engine is: Chromium
+10-08-23 08:32:23.282  Using folder for deployment: C:\Users\Lucas  Magan\AppData\Roaming\FireShot\1.12.18
+10-08-23 08:32:23.300  Created directory with result: 1
+10-08-23 08:32:23.316  Copying myself...
+10-08-23 08:32:23.753  Successfully written 368856 bytes.
+10-08-23 08:32:23.772  Extracting manifest...
+10-08-23 08:32:23.814  Written 642 bytes
+10-08-23 08:32:23.833  Done
+10-08-23 08:32:23.853  Writing registry...
+10-08-23 08:32:23.875  Successfully registered to HKEY_CURRENT_USER
+10-08-23 08:32:23.894  Exit
+10-08-23 08:33:09.982  Started
+10-08-23 08:33:09.996  With command line: C:\xampp\htdocs\prueba\img\banderas\fireshot-chrome-plugin.exe 
+10-08-23 08:33:10.012  Target engine is: Chromium
+10-08-23 08:33:10.104  Using folder for deployment: C:\Users\Lucas  Magan\AppData\Roaming\FireShot\1.12.18
+10-08-23 08:33:10.119  Created directory with result: 1
+10-08-23 08:33:10.133  Copying myself...
+10-08-23 08:33:10.147  Target Native host already exists, nothing to copy.
+10-08-23 08:33:10.161  Extracting manifest...
+10-08-23 08:33:10.177  Written 642 bytes
+10-08-23 08:33:10.192  Done
+10-08-23 08:33:10.206  Writing registry...
+10-08-23 08:33:10.221  Successfully registered to HKEY_CURRENT_USER
+10-08-23 08:33:10.236  Exit
+10-08-23 08:33:15.008  Started
+10-08-23 08:33:15.024  With command line: C:\xampp\htdocs\prueba\img\banderas\fireshot-chrome-plugin.exe 
+10-08-23 08:33:15.040  Target engine is: Chromium
+10-08-23 08:33:15.057  Using folder for deployment: C:\Users\Lucas  Magan\AppData\Roaming\FireShot\1.12.18
+10-08-23 08:33:15.072  Created directory with result: 1
+10-08-23 08:33:15.087  Copying myself...
+10-08-23 08:33:15.102  Target Native host already exists, nothing to copy.
+10-08-23 08:33:15.116  Extracting manifest...
+10-08-23 08:33:15.134  Written 642 bytes
+10-08-23 08:33:15.149  Done
+10-08-23 08:33:15.167  Writing registry...
+10-08-23 08:33:15.183  Successfully registered to HKEY_CURRENT_USER
+10-08-23 08:33:15.198  Exit
+10-08-23 08:33:17.574  Started
+10-08-23 08:33:17.575  With command line: C:\xampp\htdocs\prueba\img\banderas\fireshot-chrome-plugin.exe 
+10-08-23 08:33:17.576  Target engine is: Chromium
+10-08-23 08:33:17.579  Using folder for deployment: C:\Users\Lucas  Magan\AppData\Roaming\FireShot\1.12.18
+10-08-23 08:33:17.581  Created directory with result: 1
+10-08-23 08:33:17.581  Copying myself...
+10-08-23 08:33:17.582  Target Native host already exists, nothing to copy.
+10-08-23 08:33:17.583  Extracting manifest...
+10-08-23 08:33:17.585  Written 642 bytes
+10-08-23 08:33:17.586  Done
+10-08-23 08:33:17.587  Writing registry...
+10-08-23 08:33:17.588  Successfully registered to HKEY_CURRENT_USER
+10-08-23 08:33:17.590  Exit
