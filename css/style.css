@@ -2026,6 +2026,7 @@ h6,
   .modern-newsletter-input {
     padding: 12px 18px;
     font-size: 0.95rem;
+     border-radius: 30px;
   }
 
   .newsletter-submit-btn {
@@ -2050,6 +2051,7 @@ h6,
 
   .newsletter-image {
     max-width: 250px;
+    margin-top: 5vh;
   }
 }
 
